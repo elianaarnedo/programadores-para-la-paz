@@ -1,0 +1,5 @@
+1. *Usar contraseñas fuertes y proteger credenciales*: Crea claves largas con letras, números y símbolos. No las compartas ni las repitas en varias cuentas.
+
+2. *No exponer datos personales*: Evita publicar cédula, dirección, teléfono o información sensible en redes y plataformas públicas.
+
+3. *Usar conexiones seguras*: Conéctate solo a redes WiFi de confianza y verifica que las páginas usen HTTPS antes de ingresar datos.
